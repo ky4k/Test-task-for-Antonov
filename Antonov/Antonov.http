@@ -1,0 +1,6 @@
+@Antonov_HostAddress = http://localhost:5196
+
+GET {{Antonov_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
